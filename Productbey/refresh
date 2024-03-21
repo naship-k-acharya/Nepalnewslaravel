@@ -1,0 +1,9 @@
+
+   ERROR  Command "notifications:table-" is not defined. Did you mean one of these?  
+
+  ⇂ cache:table  
+  ⇂ db:table  
+  ⇂ notifications:table  
+  ⇂ queue:table  
+  ⇂ session:table  
+
